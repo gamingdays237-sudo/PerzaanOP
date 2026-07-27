@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcgate07.aternos.me",
+    "ip": "mcgate07.aternos.me", 
     "port": 18737,
     "version": "1.21.1"
   },
